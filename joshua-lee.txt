@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 someting wong
 fdgjdhgdflkhg
+=======
+asfdfghjdfgk
+world
+>>>>>>> joshua-lee-1
 fdgbjdsfhgbsdjhfg
 dfsgjhdfgdkhfg
 sdfjdhfgs
