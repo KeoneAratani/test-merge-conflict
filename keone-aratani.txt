@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 opepe
-=======
-wahsdhakjhsd
->>>>>>> joshua-lee-2
 efg
 hijk
 lmno
